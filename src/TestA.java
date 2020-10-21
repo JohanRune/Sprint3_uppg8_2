@@ -6,5 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
-    //skrivet när jag står i branchA
+    //Annan text. Skrivet i BranchB
 }
