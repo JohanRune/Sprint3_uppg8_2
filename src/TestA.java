@@ -6,4 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
+    //skrivet när jag står i branchA
 }
