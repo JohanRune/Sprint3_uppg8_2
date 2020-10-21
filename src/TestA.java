@@ -6,5 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
-    //Annan text. Skrivet i BranchB
+    //Denna text är skriven i BranchC
 }
