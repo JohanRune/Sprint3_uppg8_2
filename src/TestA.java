@@ -6,5 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
-    //Denna text är skriven i BranchC
+    //Denna text är skriven i BranchC.
 }
