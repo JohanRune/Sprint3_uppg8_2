@@ -7,4 +7,6 @@
  */
 public class TestA {
  //Skrivet idag.
+    //rad 9
+    //rad 10
 }
