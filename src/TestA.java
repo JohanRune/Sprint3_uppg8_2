@@ -6,6 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
-    //rad 9
-    //rad 10
+    //skrivet i branch A.
 }
