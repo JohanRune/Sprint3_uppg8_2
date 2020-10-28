@@ -6,6 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
-    //BranchD, master
-    //BranchD. Just de
+ //Skrivet idag.
 }
