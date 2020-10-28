@@ -6,7 +6,5 @@
  * Copyright: MIT
  */
 public class TestA {
- //Skrivet idag.
-    //rad 9
-    //rad 10
+//också skrivet idag.
 }
