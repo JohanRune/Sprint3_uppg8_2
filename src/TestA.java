@@ -7,4 +7,5 @@
  */
 public class TestA {
 //också skrivet idag.
+    //skrivet i branch A.
 }
