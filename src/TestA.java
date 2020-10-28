@@ -6,5 +6,6 @@
  * Copyright: MIT
  */
 public class TestA {
-    //skrivet när jag står i branchA
+    //rad 9
+    //rad 10
 }
